@@ -28,4 +28,4 @@ My research is primarily focused on **Dolphin Bioacoustics** and **Machine Learn
 | :--- | :--- |
 | **Email** | houpengkun@u.nus.edu |
 | **LinkedIn** | https://www.linkedin.com/in/houpengkun/ |
-| **Personal Website** | 🔧 Under Construction |
+| **Personal Website** | https://mono312.github.io/ |
