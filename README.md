@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Mono312/Mono312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# HOU PENGKUN（侯朋昆）👋
+
+## 💻 [Computer Science Student]
+
+A Master's student at **National University of Singapore (NUS)** specializing in **Computer Science**.
+My research is primarily focused on **Dolphin Bioacoustics** and **Machine Learning applications for acoustic analysis**.
+
+---
+
+
+### 📧 Get In Touch
+
+| Contact | Link |
+| :--- | :--- |
+| **Email** | houpengkun@u.nus.edu |
+| **LinkedIn** | https://www.linkedin.com/in/houpengkun/ |
+| **Personal Website** | 🔧 Under Construction |
