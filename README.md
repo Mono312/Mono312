@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# HOU PENGKUN（侯朋昆）👋
+# HOU Pengkun（侯朋昆）👋
 
 ## 💻 [Computer Science Student]
 
