@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 # HOU Pengkun（侯朋昆）👋
 
-## 💻 [ECE PhD Student]
+## 💻 [PhD Student at ARL]
 
-A PhD student at the Department of Electrical and Computer Engineering, College of Design and Engineering, **National University of Singapore (NUS)**.
+A PhD student at the Department of Electrical and Computer Engineering, College of Design and Engineering, **National University of Singapore (NUS)**, with Acoustic Research Laboratory (ARL).
 My research is focused on dolphin-inspired 3D acoustic imaging.
 
 ---
