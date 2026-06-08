@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 # HOU Pengkun（侯朋昆）👋
 
-## 💻 [Computer Science Student]
+## 💻 [ECE PhD Student]
 
-A Master's student at **National University of Singapore (NUS)** specializing in **Computer Science**.
-My research is primarily focused on **Dolphin Bioacoustics** and **Machine Learning applications for acoustic analysis**.
+A PhD student at the Department of Electrical and Computer Engineering, College of Design and Engineering, **National University of Singapore (NUS)**.
+My research is focused on dolphin-inspired 3D acoustic imaging.
 
 ---
 
